@@ -3,3 +3,4 @@
 .classpath
 .project
 war/WEB-INF/lib/
+gwt-unitCache
