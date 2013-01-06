@@ -1,0 +1,2 @@
+serviceClass: sno.mum.gae.client.GreetingService
+path: 0F21C7CF5AD000EFE345E103C327EBDA.gwt.rpc
